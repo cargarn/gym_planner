@@ -1,4 +1,6 @@
 # Gym Planner app
+Author: Carlos Garnacho Benito
+
 
 ## Backend: Express + MongoDB
 ## Frontend: React
